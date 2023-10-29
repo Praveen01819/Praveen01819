@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen01819&label=Profile%20views&color=0e75b6&style=flat" alt="praveen01819" /> </p>
 
-- 🔭 I’m currently working on **Schedulink**
-
 - 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **praveen01819@gmail.com**
