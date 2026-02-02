@@ -34,7 +34,6 @@ I focus on:
 #### 🎨 UI / UX & Design
 <p>
   <img title="Figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img title="Adobe XD" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/>
   <img title="Canva" src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
 </p>
 
