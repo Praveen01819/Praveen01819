@@ -1,90 +1,60 @@
 <h1 align="center">Hi, I'm Praveen Kumar 👋</h1>
 <p align="center">
-AI/ML Intern @ SenseGridAI · UI/UX Designer · Frontend Developer  
+AI/ML Intern · UI/UX & Frontend Developer  
 <br/>
-Chennai, India
+Currently working on AI solutions at <b>SenseGridAI</b>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-AI/ML Intern at SenseGridAI with a strong foundation in UI/UX design and frontend development.  
-I work on building intelligent, user-centric systems by combining machine learning, computer vision, and modern web technologies.  
-Passionate about solving real-world problems through clean design and scalable AI-driven solutions.
-
----
-
-### 💼 Experience
-
-**AI/ML Intern — SenseGridAI**  
-- Working on applied machine learning and AI-driven solutions  
-- Contributing to data processing, model development, and real-world AI use cases  
-- Collaborating with cross-functional teams to align AI outputs with user needs  
+### 👨‍💻 About
+I work on building intelligent, user-centric systems by combining  
+**Machine Learning, Computer Vision, UI/UX, and Frontend Development**.  
+Focused on clean design, scalable code, and real-world impact.
 
 ---
 
 ### 🛠 Tools & Technologies
 
-**AI / Machine Learning**
-- Python
-- OpenCV
-- MediaPipe
-- NumPy
-- PyAutoGUI
+#### 🤖 AI / Machine Learning
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40"/>
+</p>
 
-**UI / UX**
-- User Research
-- Wireframing & Prototyping
-- Usability Testing
-- Interaction Design
-- UX Laws & Design Principles
+#### 🎨 UI / UX & Design
+<p>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="40"/>
+</p>
 
-**Frontend Development**
-- HTML
-- CSS
-- JavaScript
-- React JS
-- API Integration
+#### 🌐 Frontend Development
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+</p>
 
-**Design Tools**
-- Figma
-- Adobe XD
-- Canva
+#### 🗄 Database & Backend
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
 
-**Databases & Backend**
-- SQL
-- Firebase
-
-**Developer Tools**
-- Git
-- GitHub
-- VS Code
-
----
-
-### 📌 Selected Projects
-
-**AI Virtual Mouse (Hand Gesture Recognition)**  
-Python · MediaPipe · OpenCV  
-- Real-time hand gesture recognition for cursor movement, clicks, scrolling, and system controls  
-- Optimized for low-latency interaction
-
-**Share and Care – Food Donation Platform**  
-React · Firebase · Google Maps API  
-- Full-stack web application for real-time food donation requests  
-- Location-based routing and efficient UI–backend communication
+#### ⚙ Developer Tools
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+</p>
 
 ---
 
-### 🎨 UI/UX Case Studies
-- Apartment Amma – Food Delivery App  
-- Integral Journeys – Travel Planner App  
-
----
-
-### 📫 Contact
-- Email: **praveen01819@gmail.com**
-- GitHub: [github.com/Praveen01819](https://github.com/Praveen01819)
-- LinkedIn: [linkedin.com/in/praveen-kumar-s-10606829b](https://linkedin.com/in/praveen-kumar-s-10606829b)
-- Portfolio: [praveenkumar-portfolio.online](https://praveenkumar-portfolio.online)
+### 📫 Connect
+- 📧 praveen01819@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/praveen-kumar-s-10606829b)  
+- 🌐 [Portfolio](https://praveenkumar-portfolio.online)
 
